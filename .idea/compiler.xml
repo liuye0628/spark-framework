@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scala-grammar" />
+        <module name="scala-date_struct_alg" />
+        <module name="spark-spark_sql" />
+        <module name="spark-project-gmall" />
+        <module name="spark-basic" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
