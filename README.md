@@ -8,5 +8,5 @@
 4. spark-project-gmall(基于sparkstreaming的实时数据仓库项目)
 5. spark-spark_sql(<<Spark SQL大数据实例开发教程>>书籍学习中的相关代码)
 
-每个模块都有对应的笔记,使用语雀记录:https://www.yuque.com/liuye-6lcqc/gws1uf
+
 
