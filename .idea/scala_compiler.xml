@@ -1,40 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ScalaCompilerConfiguration">
-    <profile name="Maven 1" modules="scala-date_struct_alg">
+    <profile name="Maven 3" modules="scala-date_struct_alg,scala-grammar,spark-basic,spark-framework,spark-project-gmall,spark-spark_sql">
       <parameters>
         <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\scala-date_struct_alg\target/.scala_dependencies" />
-      </parameters>
-    </profile>
-    <profile name="Maven 2" modules="spark-project-gmall">
-      <parameters>
-        <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\spark-project-gmall\target/.scala_dependencies" />
-      </parameters>
-    </profile>
-    <profile name="Maven 3" modules="spark-framework">
-      <parameters>
-        <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\target/.scala_dependencies" />
-      </parameters>
-    </profile>
-    <profile name="Maven 4" modules="scala-grammar">
-      <parameters>
-        <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\scala-grammar\target/.scala_dependencies" />
-      </parameters>
-    </profile>
-    <profile name="Maven 5" modules="spark-basic">
-      <parameters>
-        <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\spark-basic\target/.scala_dependencies" />
-      </parameters>
-    </profile>
-    <profile name="Maven 6" modules="spark-spark_sql">
-      <parameters>
-        <parameter value="-dependencyfile" />
-        <parameter value="D:\code\IdeaProjects\spark-framework\spark-spark_sql\target/.scala_dependencies" />
+        <parameter value="${project.build.directory]/.scala_dependencies" />
       </parameters>
     </profile>
   </component>
