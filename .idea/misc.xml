@@ -11,4 +11,18 @@
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
+  <component name="UnattendedHostPersistenceState">
+    <option name="openedFilesInfos">
+      <list>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="440" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/spark-basic/src/main/java/com/atguigu/spark/mock/$01_NetWorkDataMock.java" />
+        </OpenedFileInfo>
+        <OpenedFileInfo>
+          <option name="caretOffset" value="435" />
+          <option name="fileUrl" value="file://$PROJECT_DIR$/spark-basic/src/main/scala/com/atguigu/spark/a_examples/$01_NetworkWordCount.scala" />
+        </OpenedFileInfo>
+      </list>
+    </option>
+  </component>
 </project>

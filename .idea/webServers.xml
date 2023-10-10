@@ -5,7 +5,7 @@
       <webServer id="85a60945-c72d-45cf-bcf4-7c721a22d3aa" name="hadoop102">
         <fileTransfer accessType="SFTP" host="hadoop102" port="22" sshConfigId="00b58e05-c73c-416c-b432-311f7b41bea7" sshConfig="root@hadoop102:22 password">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
